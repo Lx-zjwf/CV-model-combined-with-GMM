@@ -8,15 +8,15 @@ Chan-Vese(CV) model promotes the evolution of level set curve based on the gray 
 You can run Main.m to experiment and test the algorithm our project proposed with your image. You should chang fgdCompCount and bgdCompCount in the file LevelSetEvo.m to adapt to images with different gray distribution. Generally, images with a single gray distribution only need three or less submodels, while images with a complex gray distribution need more than five submodels to describe its distribution well.
 
 ## Test results
-### Here is the segmentation results of level set curve driven by our model in the images with Gaussian noise.
+#### Here is the segmentation results of level set curve driven by our model in the images with Gaussian noise.
 <div align="center">
-<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/balls_GMM.jpg" height="160" width="200" >
-<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/d_GMM.jpg" height="160" width="200" >
-<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/plane_k25.jpg" height="160" width="200" >
+<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/balls_GMM.jpg" height="160" width="190" >
+<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/d_GMM.jpg" height="160" width="190" >
+<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/plane_k25.jpg" height="160" width="190" >
 </div>
-### Here is the results in images with intensity inhomogeneity.
+#### Here is the results in images with intensity inhomogeneity.
 <div align="center">
-<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/a_GMM.jpg" height="160" width="200" >
-<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/c_GMM.jpg" height="160" width="200" >
-<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/noise_GMM.jpg" height="160" width="200" >
+<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/a_GMM.jpg" height="160" width="190" >
+<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/c_GMM.jpg" height="160" width="190" >
+<img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/noise_GMM.jpg" height="160" width="190" >
 </div>

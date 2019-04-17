@@ -9,14 +9,14 @@ You can run Main.m to experiment and test the algorithm our project proposed wit
 
 ## Test results
 #### Here is the segmentation results of level set curve driven by our model in the images with Gaussian noise.
-<div align="center">
+<div align="left">
 <img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/balls_GMM.jpg" height="160" width="190" >
 <img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/d_GMM.jpg" height="160" width="190" >
 <img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/plane_k25.jpg" height="160" width="190" >
 </div>
 
 #### Here is the results in images with intensity inhomogeneity.
-<div align="center">
+<div align="left">
 <img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/a_GMM.jpg" height="160" width="190" >
 <img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/c_GMM.jpg" height="160" width="190" >
 <img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/noise_GMM.jpg" height="160" width="190" >

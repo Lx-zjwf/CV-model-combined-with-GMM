@@ -14,6 +14,7 @@ You can run Main.m to experiment and test the algorithm our project proposed wit
 <img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/d_GMM.jpg" height="160" width="190" >
 <img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/plane_k25.jpg" height="160" width="190" >
 </div>
+
 #### Here is the results in images with intensity inhomogeneity.
 <div align="center">
 <img src="https://github.com/348632874/CV-model-combined-with-GMM/blob/master/experimental%20results/a_GMM.jpg" height="160" width="190" >
